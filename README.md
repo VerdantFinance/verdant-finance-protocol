@@ -27,8 +27,8 @@ Verdant Finance is an institutional-grade decentralized lending protocol that en
 
 ### Tokenomics
 - 40% - Community Treasury
-- 25% - Liquidity Mining  
-- 15% - Team & Advisors
+- 30% - Liquidity Mining  
+- 10% - Team & Advisors
 - 10% - Ecosystem Development
 - 5% - Strategic Partners
 - 3% - Security & Audits
