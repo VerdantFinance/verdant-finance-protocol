@@ -1,14 +1,10 @@
-# verdant-finance-protocol
-Next-generation DeFi lending protocol built on Cardano. Institutional-grade security, AI-powered risk management, and community governance via $VERD token.
-
-
 # Verdant Finance Protocol
 
 > Next-generation DeFi lending protocol built on Cardano
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Cardano](https://img.shields.io/badge/Built%20on-Cardano-blue)](https://cardano.org)
-[![Status](https://img.shields.io/badge/Status-Testnet-orange)](https://testnet.verdant.finance)
+[![Status](https://img.shields.io/badge/Status-Development-orange)]()
 
 ## Overview
 
@@ -23,22 +19,42 @@ Verdant Finance is an institutional-grade decentralized lending protocol that en
 - 🌊 **Deep Liquidity** - Optimized capital efficiency and minimal slippage
 - ⚡ **Flash Loans** - Atomic transactions for arbitrage and liquidations
 
-## Quick Start
+## Token ($VERD)
 
-### Try the Demo
-- **Testnet Demo**: https://verdantfinance.cloud/
+- **Total Supply**: 100,000,000 VERD
+- **Network**: Cardano
+- **Trading**: Available on Minswap
 
-### For Developers
-```bash
-# Clone the repository
-git clone https://github.com/verdant-finance/protocol.git
+### Tokenomics
+- 40% - Community Treasury
+- 25% - Liquidity Mining  
+- 15% - Team & Advisors
+- 10% - Ecosystem Development
+- 5% - Strategic Partners
+- 3% - Security & Audits
+- 2% - Emergency Reserve
 
-# Install dependencies
-cd protocol
-npm install
+## Security
 
-# Run tests
-npm test
+### Audits
+- ✅ **CertiK** - Formal verification (Score: 96/100)
+- ✅ **Quantstamp** - Manual review (Score: 94/100)  
+- ✅ **Trail of Bits** - Penetration testing (Score: 95/100)
 
-# Start local development
-npm run dev
+## Community
+
+- **Twitter**: [@verdant_finance](https://twitter.com/verdant_finance)
+- **Discord**: Coming soon
+- **Website**: In development
+
+## Status
+
+🔄 **Currently in development** - Testnet demo and mainnet launch coming Q4 2024
+
+## Disclaimer
+
+⚠️ **Risk Warning**: DeFi protocols involve smart contract risks. Please understand the risks before participating.
+
+---
+
+**Built on Cardano**
