@@ -49,7 +49,7 @@ Verdant Finance is an institutional-grade decentralized lending protocol that en
 
 ## Status
 
-🔄 **Currently in development** - Testnet demo and mainnet launch coming Q4 2024
+🔄 **Currently in development** - mainnet launch coming Q4 2025
 
 ## Disclaimer
 
